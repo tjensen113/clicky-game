@@ -2,8 +2,8 @@
     {
       "id": "card1",
       "name": "SpongeBob",
-      "image":
-        "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/spongebob.png?raw=true",
+      "image":"spongebob.png"
+        ,
       "occupation": "Fry Cook",
       "location": "A Pineapple Under the Sea"
     },
@@ -62,8 +62,20 @@
       "id": "card9",
       "name": "Gary",      
       "image": "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/gary.png?raw=true"    
-    }
+    },
   
-  
+    {
+        "id": "card10",
+        "name": "Gary",      
+        "image": "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/gary.png?raw=true"    
+      },
+
+      {
+        "id": "card11",
+        "name": "Gary",      
+        "image": "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/gary.png?raw=true"    
+      }
+    
+    
     
   ]
