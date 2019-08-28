@@ -11,7 +11,7 @@
       "id": "card2",
       "name": "Mr. Krabs",
       "image":
-        "",
+        "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/krab2.png?raw=true",
       "occupation": "Restaurant Owner",
       "location": "A Giant Anchor"
     },
