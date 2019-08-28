@@ -1,0 +1,25 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  
+  body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+    /*Fixed height of the footer*/
+    height: 60px;
+    line-height: 60px;
+  }
+  
+  
+  .clickable-images{
+    margin: 10px;
+  }

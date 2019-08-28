@@ -1,0 +1,69 @@
+[
+    {
+      "id": "card1",
+      "name": "SpongeBob",
+      "image":
+        "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/spongebob.png?raw=true",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": "card2",
+      "name": "Mr. Krabs",
+      "image":
+        "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/mrkrabs.png?raw=true",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": "card3",
+      "name": "Squidward",
+      "image":
+        "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/squidward.png?raw=true",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": "card4",
+      "name": "Patrick",    
+      "image":
+        "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/patrick.png?raw=true"
+      
+    },
+  
+    {
+      "id": "card5",  
+      "name": "Plankton",    
+      "image":
+        "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/plankton.png?raw=true"
+      
+    },
+  
+    {
+      "id": "card6",
+      "name": "Sandy",      
+      "image": "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/sandy.png?raw=true"    
+    },
+  
+  
+    {
+      "id": "card7",
+      "name": "Mrs. Puff",      
+      "image": "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/mrspuff.png?raw=true"    
+    },
+  
+    {
+      "id": "card8",
+      "name": "Pearl",      
+      "image": "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/pearl.png?raw=true"    
+    },
+  
+  {
+      "id": "card9",
+      "name": "Gary",      
+      "image": "https://github.com/crodier1/clicky-game/blob/master/src/components/pics/gary.png?raw=true"    
+    }
+  
+  
+    
+  ]
