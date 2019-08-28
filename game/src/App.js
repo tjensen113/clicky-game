@@ -19,7 +19,10 @@ class App extends Component {
     card6: 0,
     card7: 0,
     card8: 0,
-    card9: 0
+    card9: 0,
+    card10: 0,
+    card11: 0,
+    card12: 0
   };
 
    shuffle = (array) => {
@@ -79,6 +82,11 @@ class App extends Component {
       this.setState({card7: 0});
       this.setState({card8: 0});
       this.setState({card9: 0});
+      this.setState({card10: 0});
+      this.setState({card11: 0});
+      this.setState({card12: 0});
+      
+
 
   } 
 
