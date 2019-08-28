@@ -76,6 +76,11 @@
         "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/captain.jpeg?raw=true"    
       }
     
+      {
+        "id": "card12",
+        "name": "Larry the lobster",      
+        "image": ""    
+      }
     
     
   ]
