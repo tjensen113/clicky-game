@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import CharacerCard from "./components/CharacterCard";
+import CharacterCard from "./components/CharacterCard";
 import friends from "./friends.json";
 
 
@@ -107,7 +107,7 @@ class App extends Component {
         />
 
         {
-          this.state.friends.map(friend => <CharacerCard          
+          this.state.friends.map(friend => <CharacterCard          
             handleIncrement={this.handleIncrement}
             id={friend.id}
             key={friend.id}
