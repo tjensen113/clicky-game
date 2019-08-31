@@ -8,7 +8,7 @@ function Title(props) {
     <div className="header">
 
     <span> Score: {props.score} | Top Score: {props.topScore} </span>
-    <h1><strong>The Clicky Game</strong></h1>
+    <h1><strong>THE CLICKY GAME</strong></h1>
     </div>
   )
 }

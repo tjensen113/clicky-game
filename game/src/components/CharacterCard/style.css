@@ -6,7 +6,7 @@
     position: relative;
     width: 325px;
     float: left;
-    
+    border-radius: 100%;
     text-align: left;
         padding: 5px;
   }
@@ -19,7 +19,11 @@
     height: 100%;
     overflow: hidden;
     text-align: center;
-    background:#6CADDC;
+    
+    border-radius: 100%;
+    background: #a6e4de
+  
+    
        
   }
   .card > .img-container > img {
