@@ -100,7 +100,6 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        {/* Score: {this.state.score} | Top Score: {this.state.topScore} */}
         <Title
         score={this.state.score}
         topScore={this.state.topScore}
@@ -111,11 +110,8 @@ class App extends Component {
             handleIncrement={this.handleIncrement}
             id={friend.id}
             key={friend.id}
-            image={friend.image}      
-                                  
-          /> )
+            image={friend.image} /> )
         }        
-
       </Wrapper>
     );
   }
