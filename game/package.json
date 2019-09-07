@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://tjensen113.github.io/clicky-game"
+    "homepage":" https://tjensen113.github.io/clicky-game/"
   },
   "eslintConfig": {
     "extends": "react-app"
