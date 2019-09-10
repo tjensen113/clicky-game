@@ -3,18 +3,19 @@ header {
     text-align: center;
     font-size: 3rem;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    height:100% ;
+    padding-bottom: 20px;
+    
     
   }
   
   span{
-    padding-top: 100px;
+    padding-top: 40px;
     font-size: 2rem;
     text-align: center;
   }
   
   h1{
-    font-size: 4rem;
+    font-size: 3.5rem;
     text-align: center;
 
   

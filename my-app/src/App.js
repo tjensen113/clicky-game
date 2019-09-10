@@ -13,7 +13,7 @@ class App extends Component {
     topScore: 0,    
     card1: 0,
     card2: 0,
-    card3: 0,
+    card3: 0, 
     card4: 0,
     card5: 0,
     card6: 0,
