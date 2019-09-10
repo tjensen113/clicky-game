@@ -3,7 +3,7 @@
       "id": "card1",
       "name": "SpongeBob",
       "image":
-        "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/spongebob2.png?raw=true",
+        "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/spongebob2.png?raw=true",
       "occupation": "Fry Cook",
       "location": "A Pineapple Under the Sea"
     },
@@ -11,7 +11,7 @@
       "id": "card2",
       "name": "Mr. Krabs",
       "image":
-        "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/krab2.png?raw=true",
+        "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/krab2.png?raw=true",
       "occupation": "Restaurant Owner",
       "location": "A Giant Anchor"
     },
@@ -19,7 +19,7 @@
       "id": "card3",
       "name": "Squidward",
       "image":
-      "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/squidward2.jpeg?raw=true",
+      "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/squidward2.jpeg?raw=true",
       "occupation": "Cashier",
       "location": "An Easter Island Head"
     },
@@ -27,7 +27,7 @@
       "id": "card4",
       "name": "Patrick",    
       "image":
-        "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/patrick2.png?raw=true"
+        "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/patrick2.png?raw=true"
       
     },
   
@@ -35,51 +35,51 @@
       "id": "card5",  
       "name": "Plankton",    
       "image":
-        "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/plankton2.jpeg?raw=true"
+        "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/plankton2.jpeg?raw=true"
       
     },
   
     {
       "id": "card6",
       "name": "Sandy",      
-      "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/sandy2.png?raw=true"    
+      "image": "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/sandy2.png?raw=true"    
     },
   
   
     {
       "id": "card7",
       "name": "Mrs. Puff",      
-      "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/puff2.png?raw=true"    
+      "image": "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/puff2.png?raw=true"    
     },
   
     {
       "id": "card8",
       "name": "Pearl",      
-      "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/pearl2.png?raw=true"    
+      "image": "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/pearl2.png?raw=true"    
     },
   
   {
       "id": "card9",
       "name": "Gary",      
-      "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/gary2.jpeg?raw=true"    
+      "image": "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/gary2.jpeg?raw=true"    
     },
   
     {
         "id": "card10",
         "name": "king",      
-        "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/king.png?raw=true"    
+        "image": "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/king.png?raw=true"    
       },
 
       {
         "id": "card11",
         "name": "Captain",      
-        "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/captain.jpeg?raw=true"    
+        "image": "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/captain.jpeg?raw=true"    
       },
     
       {
         "id": "card12",
         "name": "Larry the lobster",      
-        "image": "https://github.com/tjensen113/clicky-game/blob/master/game/src/components/pics/lobster.png?raw=true"    
+        "image": "https://github.com/tjensen113/clicky-game/blob/master/src/components/pics/lobster.png?raw=true"    
       }
     
     
