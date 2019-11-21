@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import CharacerCard from "./components/CharacterCard";
+import CharacterCard from "./components/CharacterCard";
 import friends from "./friends.json";
 
 
@@ -13,13 +13,16 @@ class App extends Component {
     topScore: 0,    
     card1: 0,
     card2: 0,
-    card3: 0,
+    card3: 0, 
     card4: 0,
     card5: 0,
     card6: 0,
     card7: 0,
     card8: 0,
-    card9: 0
+    card9: 0,
+    card10: 0,
+    card11: 0,
+    card12: 0
   };
 
    shuffle = (array) => {
@@ -79,6 +82,11 @@ class App extends Component {
       this.setState({card7: 0});
       this.setState({card8: 0});
       this.setState({card9: 0});
+      this.setState({card10: 0});
+      this.setState({card11: 0});
+      this.setState({card12: 0});
+      
+
 
   } 
 
@@ -92,22 +100,18 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        {/* Score: {this.state.score} | Top Score: {this.state.topScore} */}
         <Title
         score={this.state.score}
         topScore={this.state.topScore}
         />
 
         {
-          this.state.friends.map(friend => <CharacerCard          
+          this.state.friends.map(friend => <CharacterCard          
             handleIncrement={this.handleIncrement}
             id={friend.id}
             key={friend.id}
-            image={friend.image}      
-                                  
-          /> )
+            image={friend.image} /> )
         }        
-
       </Wrapper>
     );
   }

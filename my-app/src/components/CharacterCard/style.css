@@ -1,27 +1,31 @@
 .card {
-    background: #fff;
     border-radius: 2px;
-    height: 200px;
-    margin: 1rem;
+    height: 180px;
+    margin: .5rem;
     position: relative;
-    width: 325px;
+    width: 315px;
     float: left;
-    
+    border-radius: 100%;
     text-align: left;
-        padding: 5px;
+    padding: 2px;
+    background: #e4bb05;
   }
 
   .card:hover{
-    box-shadow: 0 5px 8px black, 0 3px 6px black;
+    box-shadow: 0 4px 8px black, 0 3px 6px black;
   }
   
   .card > .img-container {
     height: 100%;
     overflow: hidden;
     text-align: center;
-    background:#6CADDC;
+    border-radius: 100%;
+    background: #a6e4de
+  
+    
        
   }
   .card > .img-container > img {
-    width: 60%
+    width: 60%;
+    height:100%
   }  
