@@ -1,15 +1,3 @@
-# This a React memory game.
-
-
-
-<img src="src/components/pics/React App.webm">
-
-
-
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
